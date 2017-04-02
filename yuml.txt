@@ -1,0 +1,7 @@
+[Administration]^[Vendeur]
+[Administration]^[Gérant Magasins]
+[Gérant Magasins]-(ajoute des jeux)
+[Gérant Magasins]-(note: fait réference à la classe Magasin)
+[Vendeur]-(peut mettre moitier prix)
+(ajoute des jeux)>(qui ont un prix)
+(peut mettre moitier prix)>(qui ont un prix)
